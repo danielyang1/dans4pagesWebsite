@@ -7,3 +7,11 @@ color: #0000FF;
 .soft { color: #a8a8a8;}
 .center { text-align: center;}
 .container { margin: 0 auto;}
+.whoa { position: fixed;}
+.red {color: red;}
+.blue{color: blue;}
+.border{border: blue;}
+.body{background-color: #F0E68C;}
+li{display: inline; text-align: right;}
+.ardan{margin-top: 50px; text-align: center;}
+.joule{margin-top: 20px;}
